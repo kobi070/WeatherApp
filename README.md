@@ -22,3 +22,6 @@ You may also see any lint errors in the console.
 2. Provides a five-day forecast with detailed information for each day's weather
 3. Automatically detects a user's location using their device's geolocation, or allows them to manually enter a location
 4. Customizable units of measurement and theme
+
+### Deoloyment
+Visit trough Git Pages - https://kobi070.github.io/WeatherApp/
